@@ -20,7 +20,7 @@
           <div class="swiper hero-slider">
             <div class="swiper-wrapper">
               <div class="swiper-slide tj-slider-item">
-                <div class="slider-bg-image" data-bg-image="assets/images/hero/our-group-companies.jpg"></div>
+                <div class="slider-bg-image" data-bg-image="assets/images/hero/privacy-policy.jpeg"></div>
                 <div class="container">
                   <div class="slider-wrapper">
                     <div class="slider-content">
