@@ -15,7 +15,7 @@
         <!-- <div class="top-space-15"></div> -->
         <!-- start: Banner Slider -->
         <section class="tj-slider-section">
-          <video class="w-100 object-cover" src="assets/video/spedition7a.mp4" autoplay muted loop playsinline></video>
+          <video class="w-100 object-cover" src="assets/video/spedition1.mp4" autoplay muted loop playsinline></video>
           <div class="circle-text-wrap wow fadeInUp" data-wow-delay="1s">
             <span class="circle-text" data-bg-image="assets/images/hero/circle-text.webp"></span>
             <a class="circle-icon" href><i class="tji-arrow-down-big"></i></a>
