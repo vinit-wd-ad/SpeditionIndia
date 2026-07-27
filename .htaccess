@@ -1,0 +1,10 @@
+DirectoryIndex index.php index.html index.htm
+
+RewriteEngine On
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule ^blog/([a-zA-Z0-9-]+)/?$ blog-details.php?slug=$1 [L,QSA]
+
+RewriteRule ^event/([a-zA-Z0-9-]+)/?$ event-details.php?slug=$1 [L,QSA]
