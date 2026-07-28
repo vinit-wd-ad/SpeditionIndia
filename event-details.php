@@ -203,22 +203,6 @@
     </div>
   </div>
 
-  <div id="teamModal" class="modal">
-    <div class="modal-content">
-      <span class="close-btn-products">&times;</span>
-      <div class="row">
-        <div class="col-md-5">
-          <img src="" alt="" id="teamMemberImg" class="w-100">
-        </div>
-        <div class="col-md-7 d-flex flex-column justify-content-center">
-          <h3 id="teamMemberTitle" class="my-2"></h3>
-          <p id="teamMemberDesignation" class="mb-4 text-theme"></p>
-          <p id="teamMemberDesc"></p>
-        </div>
-      </div>
-    </div>
-  </div>
-
   <!-- JS here -->
   <?php include "include/script.php"; ?>
 </body>
